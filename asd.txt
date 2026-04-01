@@ -1,5 +1,0 @@
-<<<<<<< Updated upstream
-test
-=======
-another text
->>>>>>> Stashed changes
